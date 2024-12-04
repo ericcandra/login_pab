@@ -42,7 +42,7 @@ class _LoginScreen extends State<LoginScreen> {
                   border: OutlineInputBorder(),
                   labelText: 'Email'
                 ),
-                obscureText: true,
+                
               ),
               const SizedBox(height: 16,),
               // untuk password
